@@ -1,48 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Saeed Kokash. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hallo",
+      "description": "👋 Ich bin Saeed Kokash. Ich bin ein 28-jähriger Architekt und habe 2017 meinen Abschluss an der Deutsch-Jordanischen Universität gemacht. Ich folge meiner Leidenschaft, Programmierer/Entwickler zu werden. Ich arbeite mit den neuesten Frontend-Frameworks wie Angular, React und Vue. ",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Über mich",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "experience": "Erfahrung"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Gehörnte Tiere",
+        "startDate": "2022",
+        "description": "Die am meisten erweiterte Anwendung, mit der ich arbeiten durfte. Ich habe viele Fähigkeiten von React und Bootstrap gelernt und wie man die Anwendung mit Netlify bereitstellt. Die Anwendung verarbeitet alle Arten von gehörnten Tieren mit der Möglichkeit, sie nach der Anzahl ihrer Hörner zu filtern.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/horned-animals/horned01.jpg",
+          "images/portfolio/horned-animals/horned02.jpg"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://super-druid-e326ab.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,16 +27,41 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "SIESTA Restaurant ",
+        "startDate": "2022",
+        "description": "Persönliches Projekt für ein Studienfach. Es ist ein kleines Vanilla-Javascript-Projekt mit CSS-Styling über ein Restaurant und die Fähigkeit, für Präferenzen und die Berechnung von Statistiken mit dem eingereichten Formular hinzufügen",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/siesta-restaurant/siesta01.JPG",
+          "images/portfolio/siesta-restaurant/siesta02.JPG",
+          "images/portfolio/siesta-restaurant/siesta03.JPG"
+        ],
+        "url": "https://saeedkokash.github.io/Restaurant/index.html",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Final Project Placeholder",
+        "startDate": "2022",
+        "description": "The final project for 301-course",
+        "images": [
+          "",
+          ""
         ],
         "url": "https://github.com",
         "technologies": [
