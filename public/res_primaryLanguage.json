@@ -11,38 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Horned Animals",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many abilities by React and bootstrap and how to deploy the application using Netlify. Application handles all types of horned animals with the ability to filter them depending on their horns number.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/horned-animals/horned01.jpg",
+          "images/portfolio/horned-animals/horned02.jpg"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://super-druid-e326ab.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,16 +27,41 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "SIESTA Restaurant ",
+        "startDate": "2022",
+        "description": "Personal project for study subject. It is a small Vanilla Javascript project with CSS styling about a restaurant and the ability to add foor preferences and calculating statistics with the submitted form",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/siesta-restaurant/siesta01.JPG",
+          "images/portfolio/siesta-restaurant/siesta02.JPG",
+          "images/portfolio/siesta-restaurant/siesta03.JPG"
+        ],
+        "url": "https://saeedkokash.github.io/Restaurant/index.html",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Final Project Placeholder",
+        "startDate": "2022",
+        "description": "The final project for 301-course",
+        "images": [
+          "",
+          ""
         ],
         "url": "https://github.com",
         "technologies": [
