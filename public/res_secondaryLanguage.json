@@ -82,35 +82,43 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "LTUC ASAC",
+        "title": "Student",
+        "years": "07.2018 - 12.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript"
         ],
         "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt",
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
+          ".NET Core",
+          "SignalR",
           "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "REMANAG",
+        "title": "Project Manager",
+        "years": "11.2021 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Architect"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Autodesk Revit",
+          "Autodesk Autocad",
+          "Lumion",
+          "Enscape",
+          "Photoshop",
+          "Google Sketchup"
         ]
       }
     ]
